@@ -45,27 +45,30 @@
 💾 **[QuizCraft](https://github.com/Shreya04-bot/QuizCraft)**  
 > A secure, offline exam system using **Java AWT + MySQL**.  
 > Smooth registration → quiz-taking → results — no internet, no worries.  
+>  
 > ![QuizCraft Demo](assets/Quizcraft.gif)
 
 🧭 **[CareerCraft-AI](https://github.com/Shreya04-bot/CareerCraft-AI)**  
-> An **AI-powered career guide** that maps user profiles to skills, goals & opportunities.
-> Built with **JavaScript + OpenAI APIs** for personalized insights.
-> ![Demo](https://via.placeholder.com/400x150.png?text=CareerCraft-AI+Demo)
+> An **AI-powered career guide** that maps user profiles to skills, goals & opportunities.  
+> Built with **JavaScript + OpenAI APIs** for personalized insights.  
+>  
+> ![Demo](assets/career.gif)
 
 🔥 **[CodeStreak](https://github.com/Shreya04-bot/CodeStreak)**  
-> Helps devs maintain **daily coding streaks** and track problem-solving consistency.
-> Productivity + motivation = unbeatable combo 💪
+> Helps devs maintain **daily coding streaks** and track problem-solving consistency.  
+> Productivity + motivation = unbeatable combo 💪  
 
 🌐 **[PolyGlow](https://github.com/Shreya04-bot/PolyGlow)**  
-> A multilingual translator app with **React + Express**.
-> Features speech input/output and theme switching — smooth, dynamic, global.
-> ![Demo](https://via.placeholder.com/400x150.png?text=PolyGlow+Demo)
+> A multilingual translator app with **React + Express**.  
+> Features speech input/output and theme switching — smooth, dynamic, global.  
+>  
+> ![Demo](assets/polyglow.png)
 
 🎨 **[Frontend Experiments](https://github.com/Shreya04-bot/Frontend)**  
-> My digital sketchbook — UI ideas, animations, layouts.
-> Where design meets code (and a bit of chaos).
-> ![Demo](https://via.placeholder.com/400x150.png?text=Frontend+Experiments)
-
+> My digital sketchbook — UI ideas, animations, layouts.  
+> Where design meets code (and a bit of chaos).  
+>  
+> ![Demo](assets/frontend.gif)
 ---
 
 ### 🪩 Connect with Me  
