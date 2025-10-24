@@ -61,14 +61,11 @@
 🌐 **[PolyGlow](https://github.com/Shreya04-bot/PolyGlow)**  
 > A multilingual translator app with **React + Express**.  
 > Features speech input/output and theme switching — smooth, dynamic, global.  
->  
-> ![Demo](assets/polyglow.png)
 
 🎨 **[Frontend Experiments](https://github.com/Shreya04-bot/Frontend)**  
 > My digital sketchbook — UI ideas, animations, layouts.  
-> Where design meets code (and a bit of chaos).  
->  
-> ![Demo](assets/frontend.gif)
+> Where design meets code (and a bit of chaos).
+
 ---
 
 ### 🪩 Connect with Me  
