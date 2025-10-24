@@ -1,16 +1,108 @@
-## Hi there 👋
+<!-- 🌌 Top Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9ff3,100:00d2ff&height=140&section=header"/>
+</p>
 
-<!--
-**Shreya04-bot/Shreya04-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ✨ Animated Typing Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=35&duration=4000&pause=1000&color=E6A4F1&center=true&vCenter=true&width=650&lines=Hey+there,+I%27m+Shreya!;Full+Stack+Developer+💻;AI+Explorer+🤖;Designer+at+Heart+🎨;Building+Dreams+in+Code+🚀" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💫 About Me  
+
+> ⚡ *Code like a human, build like a machine.*  
+> I’m a **Full Stack Developer** obsessed with **beautiful UI, clean APIs, and creative AI**.  
+> I blend **frontend elegance** with **backend logic**, because why choose when you can do both?  
+
+💻 **Tech Stack:** React, Next.js, Node.js, MongoDB, TailwindCSS, Firebase, Python, DevOps  
+🌈 **Currently Exploring:** AI-integrated web systems + cloud automation  
+🧠 **Goal:** Build stuff that feels futuristic but human  
+💬 **Ask me about:** APIs, UI/UX, DevOps, design systems  
+🎨 **Fun Fact:** I code better when the playlist hits “synthwave” 🎵  
+
+---
+
+### 🛠️ My Tech Stack & Badges  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,java,mysql,git,github,figma,vscode&theme=light" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_Enthusiast-%23E6A4F1?style=for-the-badge&logo=spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full_Stack_Wizard-%23B6FFFA?style=for-the-badge&logo=codeforces&logoColor=black" />
+  <img src="https://img.shields.io/badge/Design_Thinker-%236EC1E4?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hackathon-Lover-ff6ec7?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open-Source-%23ffb6b9?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Featured Projects  
+
+💾 **[QuizCraft](https://github.com/Shreya04-bot/QuizCraft)**  
+> A secure, offline exam system using **Java AWT + MySQL**.  
+> Smooth registration → quiz-taking → results — no internet, no worries.  
+> ![Demo](https://via.placeholder.com/400x150.png?text=QuizCraft+Demo)
+
+🧭 **[CareerCraft-AI](https://github.com/Shreya04-bot/CareerCraft-AI)**  
+> AI-powered career guide mapping skills & goals. **JavaScript + OpenAI API**.  
+> ![Demo](https://via.placeholder.com/400x150.png?text=CareerCraft-AI+Demo)
+
+🔥 **[CodeStreak](https://github.com/Shreya04-bot/CodeStreak)**  
+> Productivity & motivation tracker for daily coding. **TypeScript**.  
+> ![Demo](https://via.placeholder.com/400x150.png?text=CodeStreak+Demo)
+
+🌐 **[PolyGlow](https://github.com/Shreya04-bot/PolyGlow)**  
+> Multilingual translator app (**React + Express**) with voice & theme switching.  
+> ![Demo](https://via.placeholder.com/400x150.png?text=PolyGlow+Demo)
+
+🎨 **[Frontend Experiments](https://github.com/Shreya04-bot/Frontend)**  
+> Playground for UI ideas, animations, and layouts.  
+> ![Demo](https://via.placeholder.com/400x150.png?text=Frontend+Experiments)
+
+---
+
+### 🪩 Connect with Me  
+
+<p align="center">
+  <a href="mailto:shreyachauhan9241@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shreya-chauhan-15a18436b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Shreya04-bot"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+### 🏆 Achievements / Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shreya04-bot&theme=radical&no-frame=true&margin-w=5" />
+</p>
+
+---
+
+### 📊 GitHub Stats & Languages  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shreya04-bot&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shreya04-bot&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya04-bot&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </p>
+
+---
+
+### 💬 “Code it. Style it. Ship it. Own it.” <p align="center">Made with 💜 by <b>Shreya</b></p>
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:ff9ff3&height=120&section=footer"/>
+</p>
